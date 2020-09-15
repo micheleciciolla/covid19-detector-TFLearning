@@ -1,0 +1,11 @@
+TRAIN RESNET AND CREATION OF THE MODEL:
+
+python ResNet18_train.py 
+
+
+
+INFERENCE ON TEST DATA:
+
+python Inference.py --trained_model_path ./covid_resnet18_epoch50.pt 
+
+NB: qui va messo il path del modello trainato, col nome del modello
