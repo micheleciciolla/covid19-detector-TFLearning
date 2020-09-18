@@ -23,7 +23,7 @@ In progress
 See HELP.commands.txt
 ```
 
-<a href="/confusion_matrix_2020-09-15 18:58:22.279207.png/"><img src="/confusion_matrix_2020-09-15 18:58:22.279207.png" width="500"></a>
+<a href="/confusion_matrix_2020-09-15 18:58:22.279207.png/"><img src="/PRETRAINED_NET/confusion_matrix_2020-09-15 18:58:22.279207.png" width="500"></a>
 
 
 ## Video Demo
