@@ -6,6 +6,7 @@ Project for [Vision and Perception](https://sites.google.com/diag.uniroma1.it/vi
 ## Approach
 
 The project is divide into two parts:
+
 *1) First part is a fine-tuning process of a chosen pretrained network (resnet18) to be applied to the classification problem
 *2) Second part is a custom costruction of a network using Tensorflow and Keras
 
