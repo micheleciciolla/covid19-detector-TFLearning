@@ -1,4 +1,4 @@
-# Vision and Perception course project : COVID-19 classification of scans
+# A classifier for COVID-19 scans implemented with CNN transfer learning
 
 Project for [Vision and Perception](https://sites.google.com/diag.uniroma1.it/visiope20192020/home-page?authuser=0), 2019-2020, Università Roma La Sapienza.
 <a href="https://www.dis.uniroma1.it/"><img src="http://www.dis.uniroma1.it/sites/default/files/marchio%20logo%20eng%20jpg.jpg" width="500"></a>
