@@ -3,6 +3,8 @@
 Project for [Vision and Perception](https://sites.google.com/diag.uniroma1.it/visiope20192020/home-page?authuser=0), 2019-2020, Università Roma La Sapienza.
 <a href="https://www.dis.uniroma1.it/"><img src="http://www.dis.uniroma1.it/sites/default/files/marchio%20logo%20eng%20jpg.jpg" width="500"></a>
 
+![Swagger Validator](https://badgen.net/github/status/micromatch/micromatch/4.0.1)
+
 ## Approach
 
 The project is divide into two parts:
